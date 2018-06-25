@@ -1,12 +1,12 @@
-var aObject = {
+var p = {
 	a: 2
 };
 
-var b = Object.create( aObject );
-b.a++;
+var object = Object.create(p);
+object.a++;
 
-console.log(aObject.a)
-console.log(b.a)
+console.log(object.a)
+console.log(p.a)
 
 //2
 //3
