@@ -9,5 +9,3 @@ function bar() {
 var avar = "global";
 var foo = bar();
 foo();
-
-//global

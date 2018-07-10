@@ -13,5 +13,3 @@ function bar() {
 
 var avar = "global";
 bar();
-
-//object

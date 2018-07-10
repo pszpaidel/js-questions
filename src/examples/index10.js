@@ -6,5 +6,3 @@ function foo() {
 
 var o = new foo();
 console.log(o.avar);
-
-//2

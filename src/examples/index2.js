@@ -6,8 +6,6 @@ function foo() {
 };
 
 var fObject = new foo();
-console.log(fObject.getName())
-
-//foo
+console.log(fObject.getName());
 
 

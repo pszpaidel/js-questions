@@ -7,5 +7,3 @@ function foo() {
 
 foo();
 console.log(this.getName());
-
-//foo

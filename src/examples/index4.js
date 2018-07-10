@@ -10,5 +10,3 @@ function bar() {
 bar();
 var avar = "global";
 
-//undefined
-
